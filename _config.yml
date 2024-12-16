@@ -19,7 +19,7 @@ title: JDaBeen # the main title
 tagline: Think like Bayes, deduce like Holmes. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Think like Bayes, deduce like Holmes.
+  Think like Bayes, deduce like Holmes
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://private-avatars.githubusercontent.com/u/156669720?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMzEzODAsIm5iZiI6MTczNDMzMDE4MCwicGF0aCI6Ii91LzE1NjY2OTcyMCJ9.0C73dl6uNQb-sM8qr8Bi350wi66PAtW5djlyKJD6uJk&v=4
+avatar: https://github.com/JDaBeen.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
